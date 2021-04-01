@@ -23,7 +23,7 @@
 		"react-native-webgl": "^0.8.0",
 		"react-spring": "^8.0.27",
 		"react-three-fiber": "^4.1.4",
-		"three": "^0.116.1"
+		"three": "^0.125.0"
 	},
 	"author": {
 		"email": "zmtmaster@gmail.com",
